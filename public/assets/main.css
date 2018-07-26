@@ -1,0 +1,20 @@
+.puerta {
+    width: 100%;
+    right: 0px;
+    overflow: hidden;
+    position: relative;
+    -webkit-transition-duration: 10s;
+    /* Safari */
+    transition-duration: 10s;
+}
+
+#fondo {
+    width: 100%;
+    background-image: url(xdEiuJ1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.btn-large {
+    width: 100%;
+}

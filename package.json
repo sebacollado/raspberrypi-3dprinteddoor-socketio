@@ -1,0 +1,26 @@
+{
+  "name": "controlpuerta",
+  "version": "1.0.0",
+  "description": "Sistema de control para puerta automática desde cliente web. Proyecto para la asignatura Microprocesadores y Microcontroladores.",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    {
+      "name": "Sebastián Collado Montañez",
+      "email": "scollado@ujaen.es"
+    },
+    {
+      "name": "Juan Carlos Castillo Alcántara",
+      "email": "jcca0005@red.ujaen.es"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "detect-rpi": "^1.2.0",
+    "express": "^4.16.2",
+    "onoff": "^1.1.8",
+    "socket.io": "^2.0.4"
+  }
+}
