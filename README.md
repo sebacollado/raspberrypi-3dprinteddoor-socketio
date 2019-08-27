@@ -3,9 +3,9 @@ Proyecto final para la asignatura Microprocesadores y Microcontroladores
 
 ## Autores
 
-Sebastián Collado Montañez
+Sebastián Collado
 
-Juan Carlos Castillo Alcántara
+Juan Carlos Castillo
 
 ## Introducción
 
