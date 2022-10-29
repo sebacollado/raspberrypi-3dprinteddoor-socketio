@@ -21,6 +21,6 @@
     "detect-rpi": "^1.2.0",
     "express": "^4.16.2",
     "onoff": "^1.1.8",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.5.0"
   }
 }
